@@ -1,0 +1,13 @@
+Partybot requirements:
+- Partybot should ask who wants to Party or not
+  - It should wait M minutes before starting the party
+  - If less than 2 players want to party, then it will cancel the party
+  - A player cannot be in two parties at the same time
+- Partybot should be able to create N teams for X willing players
+  - Teams should be balanced (not more than one person in total)
+  - Players should be moved to the appropiate team channels
+
+- Partybot should know game rules:
+  - Games have states and actions to complete
+   
+
